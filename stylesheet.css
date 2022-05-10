@@ -1,3 +1,20 @@
-h1 {
-    text-decoration: underline;
+* {
+    box-sizing: content-box;
 }
+
+.header-wrapper .container h1 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+#timer {
+    font-size: 20px;
+}
+
+.container {
+    width: 1366px;
+    margin: 0 auto;
+    background-color: #e0ffff;
+}
+
